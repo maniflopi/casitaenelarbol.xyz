@@ -1,0 +1,18 @@
+html {
+	/* credits: https://unsplash.com/photos/Vpo7XGfd4tE */
+	background: url("/images/qing-zhang-qinger_zhang-Vpo7XGfd4tE-unsplash.jpg") no-repeat
+		center fixed;
+	background-size: cover;
+}
+h1 span {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: rgba(227, 152, 90, 0.8);
+}
+h2 span {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(227, 152, 98, 0.6);
+}
